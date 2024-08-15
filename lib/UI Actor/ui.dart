@@ -1,0 +1,16 @@
+export 'onboarding/onboarding.dart';
+export 'home_page.dart';
+export 'profile_details/profile_details.dart';
+export 'monologue_screen.dart';
+export 'profile.dart';
+export 'requests.dart';
+export 'actor_lookalikes/actor_lookalikes.dart';
+export 'other_skills/other_skills.dart';
+export 'awards/awards.dart';
+export 'choose_monologue/choose_monologue.dart';
+export 'select_monologue.dart';
+export 'top_recommended.dart';
+export 'search/search.dart';
+export 'endorsements/endorsements.dart';
+export 'subscriptions.dart';
+export 'profile_screen.dart';

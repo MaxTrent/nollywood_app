@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1052186882578",
+    "project_id": "nitoons-actor-app",
+    "storage_bucket": "nitoons-actor-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052186882578:android:cbe8c389d8ab07385adecb",
+        "android_client_info": {
+          "package_name": "com.pledre.nitoons"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh1ImPJhOYu_CHNTmixf3yKLqqRdrQEZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
